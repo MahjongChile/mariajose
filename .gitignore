@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+.idea/.gitignore
+.idea/WaifuBotDiscord.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+config/config.json
+.idea

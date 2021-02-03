@@ -1,0 +1,10 @@
+{
+  "prefix": "mj!",
+  "apiBaseUrl": "https://mj.rampmaster.local",
+  "token": "<token>",
+  "owner": {
+    "name": "Mahjong Chile",
+    "slogan": "Palta-Tomate-Mayo",
+    "avatar": "https://cdn.discordapp.com/avatars/799680313638387712/8e386032416ecb516412a881fa415ad1.png"
+  }
+}
